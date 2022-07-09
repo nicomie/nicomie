@@ -1,4 +1,14 @@
-### Hi, At the moment I am learning Vue, Golang and Erlang 🐱‍🚀
+### Hi, At the moment I am learning 
+Vue, 
+Golang & 
+Erlang 🐱‍🚀
+<p align="center">
+  <samp>
+    <a href="">me</a> |
+    <a href="">blog</a> 
+  </samp>
+</p>
+
 <!--
 **nicomie/nicomie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
