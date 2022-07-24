@@ -1,7 +1,5 @@
-### Hi, At the moment I am learning 
-Vue, 
-Golang & 
-Erlang 🐱‍🚀
+### Hi, At the moment I am exploring
+Golang, Erlang & postgres🐱‍🚀
 
 <!--
 **nicomie/nicomie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
