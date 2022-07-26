@@ -1,5 +1,5 @@
 ### Hi, At the moment I am exploring
-Golang, Erlang & postgres🐱‍🚀
+## Golang, Erlang/Elixir & postgres🐱‍🚀
 
 <!--
 **nicomie/nicomie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
