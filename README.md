@@ -1,5 +1,5 @@
-### Hi
-
+### Hi,
+<a href="https://nicomie.github.io/showcase/">View my portfolio</a> 😎
 <!--
 **nicomie/nicomie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
